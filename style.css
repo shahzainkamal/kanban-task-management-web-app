@@ -1,0 +1,362 @@
+body {
+  background-color: black;
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* section-one */
+.section-one {
+  color: white;
+  background-color: rgb(34, 28, 28);
+
+  width: 18%;
+
+  font-size: 13px;
+  line-height: 190%;
+}
+
+.board:hover {
+  background-color: blueviolet;
+  cursor: pointer;
+}
+.board {
+  padding-left: 20px;
+  width: 160px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-bottom: 7px;
+}
+.create {
+  color: blueviolet;
+  cursor: pointer;
+}
+.create img {
+  width: 12px;
+  padding-left: 20px;
+}
+.board img {
+  width: 12px;
+}
+.all-board {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+.logo-one img {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+.theme {
+  /* padding-top: 240%; */
+  margin-top: 240%;
+  margin-left: 15%;
+  background-color: black;
+  width: 70%;
+  text-align: center;
+  padding-top: 10px;
+}
+.hide-sidebar {
+  padding-left: 35px;
+  font-size: 10px;
+  color: gray;
+}
+
+.section-one img {
+  width: 20px;
+}
+p {
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+}
+span {
+  font-size: 12px;
+  color: gray;
+}
+.one li {
+  padding: 0;
+  font-size: 9px;
+  color: gray;
+  letter-spacing: 3px;
+  list-style: none;
+}
+
+.two li {
+  font-size: 9px;
+  color: gray;
+  letter-spacing: 3px;
+  list-style: none;
+  padding: 0;
+  margin-top: 300px;
+}
+.three li {
+  font-size: 9px;
+  color: gray;
+  letter-spacing: 3px;
+  list-style: none;
+  padding: 0;
+}
+button {
+  padding: 10px 7px 10px 7px;
+  font-size: 14px;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+sa {
+  background-color: orange;
+  color: orange;
+  border-radius: 15px;
+}
+
+.board:hover {
+  background-color: blueviolet;
+  cursor: pointer;
+}
+.board {
+  padding-left: 20px;
+  width: 160px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-bottom: 7px;
+}
+.create {
+  color: blueviolet;
+  cursor: pointer;
+}
+.create img {
+  width: 12px;
+  padding-left: 20px;
+}
+.board img {
+  width: 12px;
+}
+.all-board {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+.logo-one img {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.board:hover {
+  background-color: blueviolet;
+  cursor: pointer;
+}
+.board {
+  padding-left: 20px;
+  width: 160px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-bottom: 7px;
+}
+.create {
+  color: blueviolet;
+  cursor: pointer;
+}
+.create img {
+  width: 12px;
+  padding-left: 20px;
+}
+.board img {
+  width: 12px;
+}
+.all-board {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+/* .logo-one img {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+  } */
+.board:hover {
+  background-color: blueviolet;
+  cursor: pointer;
+}
+.board {
+  padding-left: 20px;
+  width: 160px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-bottom: 7px;
+}
+.create {
+  color: blueviolet;
+  cursor: pointer;
+}
+.create img {
+  width: 12px;
+  padding-left: 20px;
+}
+.board img {
+  width: 12px;
+}
+.all-board {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+.logo-one img {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+h1{
+    position: absolute;
+    top: 1px;
+    left: 50px;
+    font-size: 20px;
+}
+/* second-section */
+.all-section {
+  display: flex;
+}
+.platform {
+  background-color: rgb(34, 28, 28);
+  width: 344%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.six {
+  background-color: blueviolet;
+  color: blueviolet;
+}
+.second-section {
+  line-height: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.second-section div {
+  background-color: rgb(34, 28, 28);
+}
+.second-section-one {
+  background-color: black;
+}
+.second-section-two {
+  padding: 15px 60px 15px 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.second-section-three {
+  padding: 15px 60px 15px 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.second-section-four {
+  padding: 15px 60px 15px 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.second-section-five {
+  padding: 15px 60px 15px 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+/* Third-section */
+
+.third-section div {
+  background-color: rgb(34, 28, 28);
+}
+.third-section {
+  margin-top: 13px;
+}
+.third-section li {
+  padding: 10px;
+}
+.third-section ul li {
+  margin-top: 61px;
+}
+.third-section-two {
+  padding: 15px 15px 30px 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.third-section-three {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.third-section-four {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.third-section-five {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.third-section-six {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.third-section-seven {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+
+/* four-section */
+.four-section ul li {
+  margin-top: 61px;
+}
+.four-section {
+  margin-top: 13px;
+}
+.four-section div {
+  background-color: rgb(34, 28, 28);
+  margin-left: 20px;
+}
+.four-section li {
+  padding: 10px 10px 10px 10px;
+}
+
+.four-section-two {
+  padding: 15px 15px 30px 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.four-section-three {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.four-section-four {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.four-section-five {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.four-section-six {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.four-section-seven {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.four-section-eight {
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+
+.seven {
+  background-color: rgb(14, 189, 101);
+  color: rgb(14, 189, 101);
+}
